@@ -1,6 +1,6 @@
 A simple blogging engine written using the Django web development framework during the course of a tutorial on my blog at http://www.matthewdaly.co.uk.
 
-It provides the following features:
+It provides the following best features:
 
 Posts
 =====
